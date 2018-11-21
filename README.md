@@ -1,0 +1,2 @@
+# redisconfig
+将Redis的config文件中的注释进行翻译整理
